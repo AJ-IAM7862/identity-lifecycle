@@ -11,8 +11,8 @@ Entra ID.<br />
 - Windows 11
 <h2>Joiner</h2>
 <p>
-<img width="1919" height="628" alt="image"
-src="https://github.com/user-attachments/assets/608b84c3-7759-4cd1-be2e-fc14d98a658b" />
+<img width="957" height="470" alt="All Users Joiner" src="https://github.com/user-attachments/assets/889c7709-ebdf-4022-b0e0-9b8d2ddeee1d" />
+
 </p>
 <p>
 User's that have Joined organization.
@@ -20,20 +20,19 @@ User's that have Joined organization.
 <br />
 <h2>Mover</h2>
 <p>
-<img width="999" height="764" alt="image"
-src="https://github.com/user-attachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" />
+<img width="959" height="470" alt="GC Mover Talent Acquisition Manager ILC" src="https://github.com/user-attachments/assets/4c311b1e-d8aa-4e1a-a326-81e5d0b81e24" />
+
 <p>
-<img width="1024" height="759" alt="image"
-src="https://github.com/user-attachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" />
+<img width="957" height="470" alt="GC Mover Head of Talent" src="https://github.com/user-attachments/assets/062fc5df-f002-4328-a831-9622c7aa11fa" />
+
 </p>
 <p>
-User that has transfered to another department in organization. Went from IT to HR.
+User that has transferred to another role within same department in organization. People and Talent/HR.
 </p>
 <br />
 <h2>Leaver</h2>
 <p>
-<img width="1918" height="740" alt="image"
-src="https://github.com/user-attachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" />
+<img width="949" height="466" alt="NN Deleted User ILC" src="https://github.com/user-attachments/assets/4ddab0ff-dfcc-4c09-827c-dc81371236e8" />
 </p>
 <p>
 User that has left the organization.
